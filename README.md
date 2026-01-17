@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**lissblissz/lissblissz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"# >"I get mean when I'm nervous, like a BAD dog."</h1>
+<h2 align="center" > <img width="564" height="844" alt="image" src="https://github.com/user-attachments/assets/ece0f61c-4805-4290-b15b-1463a6c578a2" />
+<p align="center" > bradley/gio <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8df124b9-5f56-43c6-a937-8db938e1e8b4" />
+<p alifn="center" > 6teen</p>
+<p alifn="center" > artist, singer, violinist</p> <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/d860e1bc-b153-48ca-90a8-68990833f0a2" />
+<p alifn="center" > <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/432ad36c-8901-4813-b8b1-de89e8a19bb4" /> <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/4281af7f-ec8b-4dd6-953d-69bd3a6a9cc0" /> <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/c9b578b8-bd98-4d4f-9ce1-55f6b50f22ae" /><img width="2048" height="327" alt="image" src="https://github.com/user-attachments/assets/59722c53-8209-4506-9ee7-138d8361040e" /> art comms 4 robux r open ! visit to see examples & prices:
+<p alifn="center" > https://rentry.co/bradleycomms
+<p alifn="center" > <img width="151" height="20" alt="image" src="https://github.com/user-attachments/assets/009f02b1-ee27-4739-a580-b02c847acf5f" />  <img width="151" height="20" alt="image" src="https://github.com/user-attachments/assets/8f75cf32-f400-4df7-bb0d-308e9ddc1e64"> <img width="151" height="20" alt="image" src="https://github.com/user-attachments/assets/fbeabd39-ba70-41fc-8762-558b044750c7" /> <img width="89" height="31" alt="image" src="https://github.com/user-attachments/assets/04b34801-14bf-492c-a88e-266f427b5ba6" />
+<p alifn="center" > <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/b5727a07-63c4-47ac-9fb0-cda836fefff3" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f4e1d80c-d7d2-48f2-b99d-f9a91c1be13a" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/4ad41ff6-1e8c-462d-9ffd-45ff521d5064" /> 
+<p alifn="center" > <img width="198" height="112" alt="image" src="https://github.com/user-attachments/assets/9fc3dca6-b8a4-434b-b766-631ff22376d2" /> <img width="198" height="112" alt="image" src="https://github.com/user-attachments/assets/ac587c84-447c-465f-a650-8f5a41fcf55c"/>
+<p alifn="center" > <img width="429" height="265" alt="image" src="https://github.com/user-attachments/assets/b06de1b3-d974-41e0-a933-9222af1d2bb5" /> <img width="430" height="266" alt="image" src="https://github.com/user-attachments/assets/925a3be6-4281-4a82-b01d-cadd41491387" /> <img width="431" height="266" alt="image" src="https://github.com/user-attachments/assets/3bfb51b5-e260-425b-9aa6-93af9a58d00e" />
