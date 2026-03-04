@@ -1,7 +1,7 @@
 <h1 align="center"# >"I get mean when I'm nervous, like a BAD dog."</h1>
 <h2 align="center" > <img width="564" height="844" alt="image" src="https://github.com/user-attachments/assets/ece0f61c-4805-4290-b15b-1463a6c578a2" />
 <p align="center" > bradley/gio <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8df124b9-5f56-43c6-a937-8db938e1e8b4" />
-<p alifn="center" > 6teen</p>
+<p alifn="center" > 7teen</p>
 <p alifn="center" > artist, singer, violinist</p> <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/d860e1bc-b153-48ca-90a8-68990833f0a2" />
 <p alifn="center" > <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/432ad36c-8901-4813-b8b1-de89e8a19bb4" /> <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/4281af7f-ec8b-4dd6-953d-69bd3a6a9cc0" /> <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/c9b578b8-bd98-4d4f-9ce1-55f6b50f22ae" /><img width="2048" height="327" alt="image" src="https://github.com/user-attachments/assets/59722c53-8209-4506-9ee7-138d8361040e" /> art comms 4 robux r open ! visit to see examples & prices:
 <p alifn="center" > https://rentry.co/bradleycomms
