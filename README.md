@@ -1,6 +1,6 @@
 <h1 align="center"# >"I get mean when I'm nervous, like a BAD dog."</h1>
 <P align="center" > <img width="564" height="844" alt="image" src="https://github.com/user-attachments/assets/ece0f61c-4805-4290-b15b-1463a6c578a2" /> 
-<p align="center"# > bradley/gio <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8df124b9-5f56-43c6-a937-8db938e1e8b4" />
+<p align="center"# > bradley/gio/brooklyn <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8df124b9-5f56-43c6-a937-8db938e1e8b4" />
 <p align="center" > 7teen</p>
 <p align="center" > artist, singer, violinist</p> 
 <p align="center" > <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/d860e1bc-b153-48ca-90a8-68990833f0a2" /> 
