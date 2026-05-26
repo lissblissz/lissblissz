@@ -1,4 +1,4 @@
-<h1 align="center" >$\color{#a17d5a}{"Hot\ or\ cold,\ what\ will\ it\ be\ ?"}$</h1>
+<h1 align="center" >$\color{#a17d5a}{"Warm\ or\ cold,\ what\ will\ it\ be\ ?"}$</h1>
 <P align="center" > <img width="1000" height="600" alt=" <image" src="https://files.catbox.moe/4xlq2k.webp" /> 
 __________________________________________________________________________________________________________________
 <p align="center" > <img width="80" height="80" alt="image" src="https://files.catbox.moe/p4axq2.webp" />
