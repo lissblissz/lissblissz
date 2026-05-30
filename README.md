@@ -18,3 +18,9 @@ ________________________________________________________________________________
 [<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://thisistheway.atabook.org/)
 </div>
 <p align="center" > $\color{grey}{This\ is\ the\ way.}$ </p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ltjz3ojjvbuohsomcew5oi76wq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=594944&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=9e8777&bar_color_cover=false">
+  </a>
+</p>
