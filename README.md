@@ -21,7 +21,7 @@ ________________________________________________________________________________
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://bradleyuppercrustiii.atabook.org/)
 </div>
-<p align="center" > $\color{#FCC7DD}{Gammas,\ roll\ out\ !}$ </p>
+<p align="center" > $\color{#FCC7DD}{Gammas,\ let's\ pack\ it\ up\ !}$ </p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
