@@ -15,7 +15,7 @@ ________________________________________________________________________________
 <h2 align="center" > $\color{#FCC7DD}{Rentry}$ ‎ ‎ ...‎ ‎  $\color{#D9A3B9}{Rentry}$<sub>2</sub> ‎ ‎ ... ‎ ‎ $\color{#FCC7DD}{Atabook}$ </h2>
 <div align="center">
 
-[<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://rentry.co/bradleyuppercrustt)
+[<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://rentry.co/bradbark)
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://rentry.co/tthisistheway)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
