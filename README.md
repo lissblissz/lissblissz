@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <p align="center" > <img width="100" height="100" alt="image" src="https://files.catbox.moe/eqncg5.webp" />
 <p align="center"# > $\color{#FCC7DD}{bradley/gio/brooklyn}$</p>
 <p align="center" > $\color{#D9A3B9}{7teen}$</p>
-<p align="center" > $\color{#C28CA2}{vet student,\ artist,\ singer,\ and\ violinist.}$</p> 
+<p align="center" > $\color{#C28CA2}{vet\ student,\ artist,\ singer,\ and\ violinist.}$</p> 
 <p align="center" > <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/432ad36c-8901-4813-b8b1-de89e8a19bb4" /> <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/4281af7f-ec8b-4dd6-953d-69bd3a6a9cc0" /> <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/c9b578b8-bd98-4d4f-9ce1-55f6b50f22ae" />
 <p align="center" > <img width="3000" alt="image" src="https://files.catbox.moe/ahk57c.png" </p>
 <p align="center" > <img width="400" height="400" alt="image" src="https://files.catbox.moe/rjm4v2.webp" />
