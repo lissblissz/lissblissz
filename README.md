@@ -21,8 +21,8 @@
 </div>
 <p align="center" > <code style="color : gold">" 𝘎𝘢𝘮𝘮𝘢𝘴, 𝘭𝘦𝘵'𝘴 𝘱𝘢𝘤𝘬 𝘪𝘵 𝘶𝘱 ! "</code>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ltjz3ojjvbuohsomcew5oi76wq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=594944&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=9e8777&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ltjz3ojjvbuohsomcew5oi76wq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=594944&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=9e8777&bar_color_cover=false" width="400" height="auto">
   </a>
 </p>
