@@ -1,27 +1,25 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=lissblissz&color=ff69b4&style=plastic&label=Gamma+Members!) </div>
-<p align="center" > <img width="50" height="50" alt="image" src="https://files.catbox.moe/pvfkyq.webp" />
-<h1 align="center" >$\color{#FCC7DD}{"See,\ he\ was\ never\ Gamma\ material\ !"}$</h1>
-<P align="center" > <img width="700" height="400" alt=" <image" src="https://files.catbox.moe/9kw4m7.webp" /> 
-__________________________________________________________________________________________________________________
-<p align="center" > <img width="100" height="100" alt="image" src="https://files.catbox.moe/eqncg5.webp" />
-<p align="center"# > $\color{#FCC7DD}{bradley/gio/brooklyn}$</p>
-<p align="center" > $\color{#D9A3B9}{7teen}$</p>
-<p align="center" > $\color{#C28CA2}{vet\ student,\ artist,\ singer,\ and\ violinist.}$</p> 
-<p align="center" > <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/432ad36c-8901-4813-b8b1-de89e8a19bb4" /> <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/4281af7f-ec8b-4dd6-953d-69bd3a6a9cc0" /> <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/c9b578b8-bd98-4d4f-9ce1-55f6b50f22ae" />
-<p align="center" > <img width="3000" alt="image" src="https://files.catbox.moe/ahk57c.png" </p>
-<p align="center" > <img width="400" height="400" alt="image" src="https://files.catbox.moe/rjm4v2.webp" />
-<h2 align="center" > $\color{#FCC7DD}{Rentry}$ ‎ ‎ ...‎ ‎  $\color{#D9A3B9}{Rentry}$<sub>2</sub> ‎ ‎ ... ‎ ‎ $\color{#FCC7DD}{Atabook}$ </h2>
+![](https://komarev.com/ghpvc/?username=lissblissz&color=E39E36&style=plastic&label=Gamma+Members) <img src="https://64.media.tumblr.com/6d6c60dc39c36f0465f4d9b76b3c3b1c/289f0c78e3455c10-0a/s500x750/bbaf77ce72c74bd07ad81f04fc18606113e1dc02.pnj" width="40" height="40" align="center"></img></a> </div>
+
+
+<img src="https://pbs.twimg.com/media/GseVh5BWUAAk0Rg?format=jpg&name=large" width="400" height="auto" align="left"></img></a>
+<p align="center" > <img width="30" height="auto" alt="image" src="https://images.vexels.com/media/users/3/235462/isolated/preview/a14a3501e63681ff7dfcfbafc89c1b96-simple-flat-golden-crown.png" /> 
+<p align="center" > <code style="color : gold">ʙʀᴀᴅʟᴇʏ</code> 
+<p align="center" > <code style="color : gold">17</code>
+<p align="center" > <code style="color : gold">vet student , artist, singer .</code>
+  
+<p align="center" > <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/432ad36c-8901-4813-b8b1-de89e8a19bb4" /> <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/4281af7f-ec8b-4dd6-953d-69bd3a6a9cc0" /> <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/c9b578b8-bd98-4d4f-9ce1-55f6b50f22ae" />
+
+<p align="center" > <code style="color : gold">ʀᴇɴᴛʀʏ</code> ‎     ㅤ  ㅤ. . .ㅤ ㅤ<code style="color : gold">ᴀᴛᴀʙᴏᴏᴋ</code> </p>
 <div align="center">
 
 [<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://rentry.co/bradbark)
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-[<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://rentry.co/tthisistheway)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://bradleyuppercrustiii.atabook.org/)
 </div>
-<p align="center" > $\color{#FCC7DD}{Gammas,\ let's\ pack\ it\ up\ !}$ </p>
+<p align="center" > <code style="color : gold">" 𝘎𝘢𝘮𝘮𝘢𝘴, 𝘭𝘦𝘵'𝘴 𝘱𝘢𝘤𝘬 𝘪𝘵 𝘶𝘱 ! "</code>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
