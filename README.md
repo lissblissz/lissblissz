@@ -7,7 +7,7 @@
 <p align="center" > <img width="30" height="auto" alt="image" src="https://images.vexels.com/media/users/3/235462/isolated/preview/a14a3501e63681ff7dfcfbafc89c1b96-simple-flat-golden-crown.png" /> 
 <p align="center" > <code style="color : gold">ʙʀᴀᴅʟᴇʏ</code> 
 <p align="center" > <code style="color : gold">17</code>
-<p align="center" > <code style="color : gold">vet student , artist, singer .</code>
+<p align="center" > <code style="color : gold">vet student , artist , singer .</code>
   
 <p align="center" > <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/432ad36c-8901-4813-b8b1-de89e8a19bb4" /> <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/4281af7f-ec8b-4dd6-953d-69bd3a6a9cc0" /> <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/c9b578b8-bd98-4d4f-9ce1-55f6b50f22ae" />
 
