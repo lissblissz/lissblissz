@@ -19,9 +19,10 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [<img src="https://files.catbox.moe/nbb1hx.png" width="50">](https://bradleyuppercrustiii.atabook.org/)
 </div>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D7922F&center=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Gammas%2C+let's+pack+it+up+!" alt="Typing SVG" /></a>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img width="350" height="120" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ltjz3ojjvbuohsomcew5oi76wq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
   </a>
 </p>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D7922F&center=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Gammas%2C+let's+pack+it+up+!" alt="Typing SVG" /></a>
